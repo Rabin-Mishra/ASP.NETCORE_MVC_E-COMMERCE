@@ -34,7 +34,7 @@ Follow these steps to get the project up and running on your local machine:
 Clone this repository to your local system using Git:
 
 ```bash
-git clone https://github.com/yourusername/OnlineShopping.git
+git clone https://github.com/Rabin-Mishra/ASP.NETCORE_MVC_E-COMMERCE.git
 ```
 
 ### 2. Open the Solution in Visual Studio
@@ -94,8 +94,8 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 For any questions or further assistance, feel free to open an issue or contact me directly at:
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [@yourusername](https://github.com/yourusername)
+- **Email**: mishrarabin92@gmail.com
+- **GitHub**: [@Rabin-Mishra](https://github.com/Rabin-Mishra/ASP.NETCORE_MVC_E-COMMERCE.git)
 
 ---
 
