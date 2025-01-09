@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNet\\OnlineShopping\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{941147A9-EB4B-4B05-AC3C-C4D487C923F1}|OnlineShopping\\OnlineShopping.csproj|d:\\dotnet\\onlineshopping\\onlineshopping\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{941147A9-EB4B-4B05-AC3C-C4D487C923F1}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941147A9-EB4B-4B05-AC3C-C4D487C923F1}|OnlineShopping\\OnlineShopping.csproj|d:\\dotnet\\onlineshopping\\onlineshopping\\models\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{941147A9-EB4B-4B05-AC3C-C4D487C923F1}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\models\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941147A9-EB4B-4B05-AC3C-C4D487C923F1}|OnlineShopping\\OnlineShopping.csproj|d:\\dotnet\\onlineshopping\\onlineshopping\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{941147A9-EB4B-4B05-AC3C-C4D487C923F1}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941147A9-EB4B-4B05-AC3C-C4D487C923F1}|OnlineShopping\\OnlineShopping.csproj|d:\\dotnet\\onlineshopping\\onlineshopping\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{941147A9-EB4B-4B05-AC3C-C4D487C923F1}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941147A9-EB4B-4B05-AC3C-C4D487C923F1}|OnlineShopping\\OnlineShopping.csproj|d:\\dotnet\\onlineshopping\\onlineshopping\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{941147A9-EB4B-4B05-AC3C-C4D487C923F1}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941147A9-EB4B-4B05-AC3C-C4D487C923F1}|OnlineShopping\\OnlineShopping.csproj|d:\\dotnet\\onlineshopping\\onlineshopping\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{941147A9-EB4B-4B05-AC3C-C4D487C923F1}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941147A9-EB4B-4B05-AC3C-C4D487C923F1}|OnlineShopping\\OnlineShopping.csproj|d:\\dotnet\\onlineshopping\\onlineshopping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{941147A9-EB4B-4B05-AC3C-C4D487C923F1}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941147A9-EB4B-4B05-AC3C-C4D487C923F1}|OnlineShopping\\OnlineShopping.csproj|d:\\dotnet\\onlineshopping\\onlineshopping\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{941147A9-EB4B-4B05-AC3C-C4D487C923F1}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941147A9-EB4B-4B05-AC3C-C4D487C923F1}|OnlineShopping\\OnlineShopping.csproj|d:\\dotnet\\onlineshopping\\onlineshopping\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{941147A9-EB4B-4B05-AC3C-C4D487C923F1}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941147A9-EB4B-4B05-AC3C-C4D487C923F1}|OnlineShopping\\OnlineShopping.csproj|d:\\dotnet\\onlineshopping\\onlineshopping\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{941147A9-EB4B-4B05-AC3C-C4D487C923F1}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941147A9-EB4B-4B05-AC3C-C4D487C923F1}|OnlineShopping\\OnlineShopping.csproj|d:\\dotnet\\onlineshopping\\onlineshopping\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{941147A9-EB4B-4B05-AC3C-C4D487C923F1}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941147A9-EB4B-4B05-AC3C-C4D487C923F1}|OnlineShopping\\OnlineShopping.csproj|d:\\dotnet\\onlineshopping\\onlineshopping\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{941147A9-EB4B-4B05-AC3C-C4D487C923F1}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941147A9-EB4B-4B05-AC3C-C4D487C923F1}|OnlineShopping\\OnlineShopping.csproj|d:\\dotnet\\onlineshopping\\onlineshopping\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{941147A9-EB4B-4B05-AC3C-C4D487C923F1}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941147A9-EB4B-4B05-AC3C-C4D487C923F1}|OnlineShopping\\OnlineShopping.csproj|d:\\dotnet\\onlineshopping\\onlineshopping\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{941147A9-EB4B-4B05-AC3C-C4D487C923F1}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941147A9-EB4B-4B05-AC3C-C4D487C923F1}|OnlineShopping\\OnlineShopping.csproj|d:\\dotnet\\onlineshopping\\onlineshopping\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{941147A9-EB4B-4B05-AC3C-C4D487C923F1}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941147A9-EB4B-4B05-AC3C-C4D487C923F1}|OnlineShopping\\OnlineShopping.csproj|d:\\dotnet\\onlineshopping\\onlineshopping\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{941147A9-EB4B-4B05-AC3C-C4D487C923F1}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941147A9-EB4B-4B05-AC3C-C4D487C923F1}|OnlineShopping\\OnlineShopping.csproj|d:\\dotnet\\onlineshopping\\onlineshopping\\onlineshopping.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{941147A9-EB4B-4B05-AC3C-C4D487C923F1}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\onlineshopping.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941147A9-EB4B-4B05-AC3C-C4D487C923F1}|OnlineShopping\\OnlineShopping.csproj|d:\\dotnet\\onlineshopping\\onlineshopping\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{941147A9-EB4B-4B05-AC3C-C4D487C923F1}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941147A9-EB4B-4B05-AC3C-C4D487C923F1}|OnlineShopping\\OnlineShopping.csproj|d:\\dotnet\\onlineshopping\\onlineshopping\\views\\product\\productdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{941147A9-EB4B-4B05-AC3C-C4D487C923F1}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\views\\product\\productdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941147A9-EB4B-4B05-AC3C-C4D487C923F1}|OnlineShopping\\OnlineShopping.csproj|d:\\dotnet\\onlineshopping\\onlineshopping\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{941147A9-EB4B-4B05-AC3C-C4D487C923F1}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941147A9-EB4B-4B05-AC3C-C4D487C923F1}|OnlineShopping\\OnlineShopping.csproj|d:\\dotnet\\onlineshopping\\onlineshopping\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{941147A9-EB4B-4B05-AC3C-C4D487C923F1}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\DotNet\\OnlineShopping\\OnlineShopping\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopping\\Views\\User\\Login.cshtml",
+              "ToolTip": "D:\\DotNet\\OnlineShopping\\OnlineShopping\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "OnlineShopping\\Views\\User\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T08:24:13.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\DotNet\\OnlineShopping\\OnlineShopping\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\Models\\LoginViewModel.cs",
+              "ToolTip": "D:\\DotNet\\OnlineShopping\\OnlineShopping\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "OnlineShopping\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T07:54:02.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\DotNet\\OnlineShopping\\OnlineShopping\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopping\\Views\\User\\Register.cshtml",
+              "ToolTip": "D:\\DotNet\\OnlineShopping\\OnlineShopping\\Views\\User\\Register.cshtml",
+              "RelativeToolTip": "OnlineShopping\\Views\\User\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T05:43:20.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "D:\\DotNet\\OnlineShopping\\OnlineShopping\\Models\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\Models\\UserViewModel.cs",
+              "ToolTip": "D:\\DotNet\\OnlineShopping\\OnlineShopping\\Models\\UserViewModel.cs",
+              "RelativeToolTip": "OnlineShopping\\Models\\UserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T05:21:47.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\DotNet\\OnlineShopping\\OnlineShopping\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopping\\Views\\User\\Edit.cshtml",
+              "ToolTip": "D:\\DotNet\\OnlineShopping\\OnlineShopping\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "OnlineShopping\\Views\\User\\Edit.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAA0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T07:09:32.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\DotNet\\OnlineShopping\\OnlineShopping\\Views\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopping\\Views\\User\\Create.cshtml",
+              "ToolTip": "D:\\DotNet\\OnlineShopping\\OnlineShopping\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "OnlineShopping\\Views\\User\\Create.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T07:09:56.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\DotNet\\OnlineShopping\\OnlineShopping\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopping\\Views\\Product\\Details.cshtml",
+              "ToolTip": "D:\\DotNet\\OnlineShopping\\OnlineShopping\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "OnlineShopping\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T03:31:07.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\DotNet\\OnlineShopping\\OnlineShopping\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\DotNet\\OnlineShopping\\OnlineShopping\\Controllers\\UserController.cs",
+              "RelativeToolTip": "OnlineShopping\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAAAHAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T03:47:45.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\DotNet\\OnlineShopping\\OnlineShopping\\Models\\User.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\Models\\User.cs",
+              "ToolTip": "D:\\DotNet\\OnlineShopping\\OnlineShopping\\Models\\User.cs",
+              "RelativeToolTip": "OnlineShopping\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T03:40:18.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DotNet\\OnlineShopping\\OnlineShopping\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopping\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\DotNet\\OnlineShopping\\OnlineShopping\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "OnlineShopping\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T03:39:27.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\DotNet\\OnlineShopping\\OnlineShopping\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopping\\Views\\Product\\Create.cshtml",
+              "ToolTip": "D:\\DotNet\\OnlineShopping\\OnlineShopping\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "OnlineShopping\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T06:19:35.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\DotNet\\OnlineShopping\\OnlineShopping\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopping\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\DotNet\\OnlineShopping\\OnlineShopping\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "OnlineShopping\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T05:47:45.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OnlineShopping.csproj",
+              "DocumentMoniker": "D:\\DotNet\\OnlineShopping\\OnlineShopping\\OnlineShopping.csproj",
+              "RelativeDocumentMoniker": "OnlineShopping\\OnlineShopping.csproj",
+              "ToolTip": "D:\\DotNet\\OnlineShopping\\OnlineShopping\\OnlineShopping.csproj",
+              "RelativeToolTip": "OnlineShopping\\OnlineShopping.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-29T03:39:28.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\DotNet\\OnlineShopping\\OnlineShopping\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\Models\\Product.cs",
+              "ToolTip": "D:\\DotNet\\OnlineShopping\\OnlineShopping\\Models\\Product.cs",
+              "RelativeToolTip": "OnlineShopping\\Models\\Product.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T03:31:01.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\DotNet\\OnlineShopping\\OnlineShopping\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\Models\\Category.cs",
+              "ToolTip": "D:\\DotNet\\OnlineShopping\\OnlineShopping\\Models\\Category.cs",
+              "RelativeToolTip": "OnlineShopping\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T03:23:50.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\DotNet\\OnlineShopping\\OnlineShopping\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\DotNet\\OnlineShopping\\OnlineShopping\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "OnlineShopping\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAAIwBsAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:58:07.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductDashboard.cshtml",
+              "DocumentMoniker": "D:\\DotNet\\OnlineShopping\\OnlineShopping\\Views\\Product\\ProductDashboard.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopping\\Views\\Product\\ProductDashboard.cshtml",
+              "ToolTip": "D:\\DotNet\\OnlineShopping\\OnlineShopping\\Views\\Product\\ProductDashboard.cshtml",
+              "RelativeToolTip": "OnlineShopping\\Views\\Product\\ProductDashboard.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T04:06:36.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\DotNet\\OnlineShopping\\OnlineShopping\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "OnlineShopping\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\DotNet\\OnlineShopping\\OnlineShopping\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "OnlineShopping\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-01T05:42:25.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\OnlineShopping\\OnlineShopping\\Program.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\Program.cs",
+              "ToolTip": "D:\\DotNet\\OnlineShopping\\OnlineShopping\\Program.cs",
+              "RelativeToolTip": "OnlineShopping\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAEwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T05:32:15.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DotNet\\OnlineShopping\\OnlineShopping\\appsettings.json",
+              "RelativeDocumentMoniker": "OnlineShopping\\appsettings.json",
+              "ToolTip": "D:\\DotNet\\OnlineShopping\\OnlineShopping\\appsettings.json",
+              "RelativeToolTip": "OnlineShopping\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-29T03:53:07.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\DotNet\\OnlineShopping\\OnlineShopping\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\DotNet\\OnlineShopping\\OnlineShopping\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "OnlineShopping\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAwwAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T03:49:48.935Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
